@@ -1,0 +1,20 @@
+{
+  
+  "name": "JaBeJa Theme Demo",
+  "short_name": "JaBeJa Demo",
+  "theme_color": "#ffcbe4",
+  "background_color": "#fa99ca",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "https://jabeja.alirezakia.art/",
+  "description": "JabeJa eCommerce Html Template By Dragon Teaam In Rtl-Theme.com",
+  "orientation": "any",
+  "background_color": "#f5f5f5",
+  "icons": [
+    {
+      "src": "/content/load/logo320.png",
+      "sizes": "320x320",
+      "type": "image/png"
+    }
+  ]
+}
